@@ -70,7 +70,7 @@ Sprint | Previsão | Status| Histórico|
 ## Sprint 3
 >Colocar o vídeo da apresentação
 
-[![SPRINT 3](https://img.youtube.com/vi/oPWRf1PirY/0.jpg)](https://youtu.be/oPWRf1PirY)
+[![SPRINT 3](https://img.youtube.com/vi/watch?v=_oPWRf1PirY/0.jpg)](https://youtu.be/watch?v=_oPWRf1PirY)
 <p align="center">
  <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%203/imagem/imagens.png" width="100%"/>
 </p>
